@@ -1,0 +1,26 @@
+{
+  "name": "paper-more-button",
+  "flat": true,
+  "version": "3.0.0",
+  "description": "A material design button to load more items in a list (Polymer)",
+  "contributors": [
+    "collaborne"
+  ],
+  "keywords": [
+    "web-components",
+    "polymer",
+    "paper",
+    "material design",
+    "list",
+    "navigation"
+  ],
+  "main": "paper-more-button.html",
+  "license": "Apache 2",
+  "homepage": "https://github.com/Collaborne/paper-more-button",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0-pre.1",
+    "@polymer/paper-button": "^3.0.0-pre.1",
+    "@polymer/paper-spinner": "^3.0.0-pre.1"
+  },
+  "devDependencies": {}
+}

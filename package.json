@@ -1,6 +1,5 @@
 {
   "name": "paper-more-button",
-  "flat": true,
   "version": "3.0.0",
   "description": "A material design button to load more items in a list (Polymer)",
   "contributors": [
